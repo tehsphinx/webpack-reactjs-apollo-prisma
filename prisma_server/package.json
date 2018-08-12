@@ -1,0 +1,10 @@
+{
+  "name": "phuganda",
+  "scripts": {
+    "start": "prisma"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
